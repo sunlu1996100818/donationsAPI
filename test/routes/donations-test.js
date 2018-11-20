@@ -47,7 +47,7 @@ describe('Donationss', function (){
                     done();
                 });
         });
-    });
+    });/*
     describe('POST /donations', function () {
         it('should return confirmation message and update datastore', function(done) {
             var donation = {
@@ -105,6 +105,6 @@ describe('Donationss', function (){
                 });
         });
 
-    });
+    });*/
 
 });
